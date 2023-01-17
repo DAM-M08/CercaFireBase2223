@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CercaFireBase2223</string>
+    <string-array name="estat">
+        <item>Assolellat</item>
+        <item>Boirós</item>
+        <item>Enuvolat</item>
+        <item>Plujós</item>
+    </string-array>
+</resources>

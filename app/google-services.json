@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "42386890237",
+    "firebase_url": "https://exemple2223-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "exemple2223",
+    "storage_bucket": "exemple2223.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42386890237:android:80d4d6e899f1b67dec0d94",
+        "android_client_info": {
+          "package_name": "net.vidalibarraquer.profe.firebase2223"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42386890237-rldvi0btfh5qj6h7l5ift5k4ntjl5iqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjf59zWHW0EC2O5cgvDWzzjXK5e-4wtvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42386890237-rldvi0btfh5qj6h7l5ift5k4ntjl5iqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
