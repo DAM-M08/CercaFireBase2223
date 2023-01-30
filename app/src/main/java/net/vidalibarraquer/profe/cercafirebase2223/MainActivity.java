@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity  {
                 ref.orderByChild("cel").equalTo(cel.getSelectedItem().toString()).addListenerForSingleValueEvent(new ValueEventListener() {
                     @Override
                     public void onDataChange(DataSnapshot dataSnapshot) {
+                        tvData.setText("");
                         for (DataSnapshot userSnapshot : dataSnapshot.getChildren()) {
                             System.out.println(userSnapshot.getKey());
                             cerca.append(userSnapshot.getKey()+" ");
